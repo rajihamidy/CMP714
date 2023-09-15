@@ -10,6 +10,7 @@ public class EvenNumberCount {
             if(a[i]%2!=0){
                 count++;
                 System.out.println(a[i]);
+
             }
 
         }
